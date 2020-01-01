@@ -1,3 +1,0 @@
-[submodule "lib/libstm32f1hal"]
-	path = lib/libstm32f1hal
-	url = https://github.com/berndoJ/libstm32f1hal
